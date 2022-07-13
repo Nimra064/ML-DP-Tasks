@@ -1,0 +1,21 @@
+1. Cleaning the Dataset.
+
+>> * Taking looks into the Data.
+>> * Checking unnecessary values.
+>> * Removing null values.
+>> * Comparing before and after removing null values.
+
+2. Exploration of Data.
+
+>> * Some useful information regarding the dataset.
+>> * Using Aggregation Techniques.
+>> * Deriving more values from the sale price values.
+>> * Deriving Co-relation analysis among dataset variables.
+
+3. Visualization of Insights.
+
+>> * Plotting Scatter graph.
+>> * Histogram of years houses were built.
+>> * Histogram of years when houses were sold.
+>> * Distribution of Sale Price value.
+>> * Visualization of the relation among Sale Price, Year_Built, and Year_Sold.
